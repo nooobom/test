@@ -24,7 +24,7 @@ Future Enhancements
 License
 
 # ✅ Features
-$ 👤 User Side
+* # 👤 User Side *
 
 Register/Login with validation
 
@@ -36,7 +36,7 @@ Checkout with Razorpay payment
 
 Order history and profile management
 
-# 🛠 Admin Side
+# *🛠 Admin Side*
 
 Secure admin login
 
