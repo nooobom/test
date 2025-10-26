@@ -24,7 +24,8 @@ Future Enhancements
 License
 
 # ✅ Features
-# *👤 User Side *
+
+# *👤 User Side*
 
 Register/Login with validation
 
