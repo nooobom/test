@@ -1,4 +1,4 @@
-Doodle Desk – Stationery Shop Management System
+# Doodle Desk – Stationery Shop Management System
 
 
 
@@ -7,7 +7,7 @@ Doodle Desk – Stationery Shop Management System
 
 Doodle Desk is a PHP-based stationery shop management system that allows users to shop for stationery products online with features like cart, wishlist, checkout, and Razorpay payments. The admin can manage products, users, and inventory through a powerful control panel. The goal is to provide seamless day-to-day management for stationery stores.
 
-📌 Table of Contents
+# 📌 Table of Contents
 
 Features
 
@@ -23,8 +23,8 @@ Future Enhancements
 
 License
 
-✅ Features
-👤 User Side
+# ✅ Features
+$ 👤 User Side
 
 Register/Login with validation
 
@@ -36,7 +36,7 @@ Checkout with Razorpay payment
 
 Order history and profile management
 
-🛠 Admin Side
+# 🛠 Admin Side
 
 Secure admin login
 
@@ -48,18 +48,19 @@ Track orders & payment records
 
 Dashboard overview for quick insights
 
-⚙️ Tech Stack
+# ⚙️ Tech Stack
 Category	Technology
 Frontend	HTML, CSS, Bootstrap, JavaScript
 Backend	PHP 8+
 Database	MySQL
 Payment	Razorpay API
 Tools	Git, GitHub, phpMyAdmin
-🚀 Installation & Setup
+
+# 🚀 Installation & Setup
 
 Clone the repository
 
-git clone https://github.com/your-username/doodle-desk.git
+# git clone https://github.com/nooobom/test.git
 
 
 Import the .sql database file into MySQL (phpMyAdmin recommended)
